@@ -9,7 +9,10 @@ My name is Dmitrii. I have a higher education in engineering and over 10 years o
 
 * 🌍  I'm based in Barcelona, Spain
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/v-dmitrii-frontend/)
-* ✉️  You can contact me at [vorosdmi@gmail.com](mailto:vorosdmi@gmail.com)
+* ✉️  Email: [vorosdmi@gmail.com](mailto:vorosdmi@gmail.com)
+* 📞  Whatsapp (RUS): [7982345042](https://wa.me/79823455042) (EN): [34663409076](https://wa.me/34663409076)
+* 💬  Telegram: [vorosdmi](https://t.me/vorosdmi)
+  
 * 🧠  I'm learning Next.js
 
 ### Skills
