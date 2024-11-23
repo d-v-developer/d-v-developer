@@ -7,10 +7,9 @@ Hi 👋 My name is Dmitrii
 ### About me
 My name is Dmitrii. I have a higher education in engineering and over 10 years of experience in IT. For the past three years, I've been working as a frontend developer. I worked at a large agricultural holding, where I automated workflows for various departments. My recent projects include developing a cashier interface for retail locations, a warehouse interface for the logistics and shipping department, and contributing to the development of an online store for the company, specifically the cart interface with checkout and notifications.
 
-* 🌍  I'm based in Barcelona, Spain
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/v-dmitrii-frontend/)
 * ✉️  Email: [vorosdmi@gmail.com](mailto:vorosdmi@gmail.com)
-* 📞  Whatsapp (RUS): [7982345042](https://wa.me/79823455042) (EN): [34663409076](https://wa.me/34663409076)
+* 📞  Whatsapp [7982345042](https://wa.me/79823455042)
 * 💬  Telegram: [vorosdmi](https://t.me/vorosdmi)
   
 * 🧠  I'm learning Next.js
